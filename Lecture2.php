@@ -17,6 +17,7 @@
     // echo "<br>".($a>=$b);
     // echo "<br>".($a!=$b);
     // echo "<br>".($a==$b);
+    // echo "<br>".($a==$b);
     
     
     //global variabler
