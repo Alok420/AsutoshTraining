@@ -33,6 +33,7 @@ echo "<br>";
 echo $a1--;
 echo "<br>";
 echo --$a1;
-
+$a1+=6; 
+echo $a1;
 
 
